@@ -4,17 +4,17 @@ A small restaurant website using Django framework , It contains Home , About us,
 
 Home page
 
-![Home_page](https://github.com/AshraktSamer/Little-lemon/assets/94191817/e6aae492-6ef6-432d-8a80-eb91ae4dca71)
+![Home_page](https://github.com/AshraktSamer/Little-Lemon/assets/94191817/1422b4e1-6473-4340-9bc0-8346e16d744e)
 
 About-us page
 
-![Abous-us_page](https://github.com/AshraktSamer/Little-lemon/assets/94191817/95989064-e3d3-490e-8fd2-e07f5ba1c185)
+![Abous-us_page](https://github.com/AshraktSamer/Little-Lemon/assets/94191817/9188e528-a73f-4d58-8ab3-b155a7e99bc8)
 
 Menu and Menu-items pages
 
-![Menu_page](https://github.com/AshraktSamer/Little-lemon/assets/94191817/0742456d-f864-493d-9fcb-4d9682b3d459)
-![Menu-item_page](https://github.com/AshraktSamer/Little-lemon/assets/94191817/f2ca16d7-7264-40db-9d0c-913e96814fb4)
+![Menu-item_page](https://github.com/AshraktSamer/Little-Lemon/assets/94191817/105f621d-dd3e-49d5-b202-57cb57b6bec6)
+![Menu_page](https://github.com/AshraktSamer/Little-Lemon/assets/94191817/03fed3af-9ece-4645-84da-a5d4bf87e75c)
 
 Book page
 
-![Book_page](https://github.com/AshraktSamer/Little-lemon/assets/94191817/baa8d21f-065b-472e-9506-51c4963d08d9)
+![Book_page](https://github.com/AshraktSamer/Little-Lemon/assets/94191817/208bdaee-6a6c-4d84-9f5f-0081d2289886)
