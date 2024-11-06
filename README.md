@@ -1,5 +1,5 @@
 # Little-lemon
-A small restaurant website using Django framework , It contains Home , About us, Menu and book pages , ( Django framework course assessment )
+A small restaurant website built with Django, providing users with an overview of the restaurant, menu options, and an easy way to make reservations.
 
 
 Home page
